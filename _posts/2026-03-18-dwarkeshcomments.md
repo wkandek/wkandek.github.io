@@ -53,3 +53,5 @@ Memory: High Bandwidth Memory (HBM) consumes 3–4x more wafer area per bit than
 Because memory vendors under‑invested in fabs during the downcycle, and new DRAM fabs take ~2 years to build, there’s now a multi‑year HBM and DRAM crunch where roughly one‑third of Big Tech CapEx is going into memory; Dylan expects smartphone shipments to fall sharply and phones/PCs to get more expensive or worse‑specced as bits are diverted from consumers to AI accelerators.
 
 Space GPUs: Dwarkesh had interviewed Elon 2 weeks ago and Space GPUs and a TeraFab where things that came up. Dylan does not think that is feasible. He thinks the complexity of SpaceGPU outweighs the benefits and the that building a fab is not very straightforward...
+
+Who buys Semianalysis data? 60% Indury, 40% finance. Some refence to Leoplod - a Semianalysis customer. see: https://capitalists.substack.com/p/situational-awareness-the-25-year 
